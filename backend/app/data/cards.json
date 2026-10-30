@@ -1,0 +1,269 @@
+[
+  {
+    "id": "chase-freedom-unlimited",
+    "name": "Chase Freedom Unlimited\u00ae",
+    "issuer": "Chase",
+    "network": null,
+    "card_type": "general",
+    "annual_fee": 0.0,
+    "foreign_transaction_fee_percent": null,
+    "reward_rules": [
+      {
+        "category": "all",
+        "rate": 1.5,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "dining",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "drugstores",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      }
+    ],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": 15,
+    "intro_balance_transfer_apr_months": 15,
+    "perks": [],
+    "tags": [
+      "cash_back"
+    ],
+    "credit_profile": "unknown",
+    "source_url": "https://67.credit/card/chase-freedom-unlimited",
+    "terms_url": "https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2026-05-12",
+    "active": true,
+    "data_notes": [
+      "Portal-only travel bonuses are excluded. Foreign transaction fee is not verified in this catalog."
+    ]
+  },
+  {
+    "id": "platinum-secured",
+    "name": "Capital One Platinum Secured",
+    "issuer": "Capital One",
+    "network": null,
+    "card_type": "secured",
+    "annual_fee": 0.0,
+    "foreign_transaction_fee_percent": 0.0,
+    "reward_rules": [],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": null,
+    "intro_balance_transfer_apr_months": null,
+    "perks": [],
+    "tags": [
+      "build_credit"
+    ],
+    "credit_profile": "new",
+    "source_url": "https://67.credit/card/platinum-secured",
+    "terms_url": "https://www.capitalone.com/credit-cards/platinum-secured/",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2026-05-12",
+    "active": true,
+    "data_notes": [
+      "A refundable security deposit is required. This card does not earn rewards."
+    ]
+  },
+  {
+    "id": "quicksilver",
+    "name": "Capital One Quicksilver Cash Rewards Credit Card",
+    "issuer": "Capital One",
+    "network": null,
+    "card_type": "general",
+    "annual_fee": 0.0,
+    "foreign_transaction_fee_percent": 0.0,
+    "reward_rules": [
+      {
+        "category": "all",
+        "rate": 1.5,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      }
+    ],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": 15,
+    "intro_balance_transfer_apr_months": 15,
+    "perks": [],
+    "tags": [
+      "cash_back"
+    ],
+    "credit_profile": "excellent",
+    "source_url": "https://67.credit/card/quicksilver",
+    "terms_url": "https://www.capitalone.com/credit-cards/quicksilver/",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2025-12-22",
+    "active": true,
+    "data_notes": [
+      "Portal-only travel and entertainment bonuses are excluded from estimates."
+    ]
+  },
+  {
+    "id": "savor",
+    "name": "Capital One Savor Cash Rewards",
+    "issuer": "Capital One",
+    "network": null,
+    "card_type": "general",
+    "annual_fee": 0.0,
+    "foreign_transaction_fee_percent": 0.0,
+    "reward_rules": [
+      {
+        "category": "all",
+        "rate": 1.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "groceries",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": "Superstores including Walmart and Target are excluded."
+      },
+      {
+        "category": "dining",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "entertainment",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      }
+    ],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": 12,
+    "intro_balance_transfer_apr_months": 12,
+    "perks": [],
+    "tags": [
+      "cash_back"
+    ],
+    "credit_profile": "excellent",
+    "source_url": "https://67.credit/card/savor",
+    "terms_url": "https://www.capitalone.com/credit-cards/savor/",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2025-12-22",
+    "active": true,
+    "data_notes": [
+      "Portal-only travel bonuses and streaming rewards are excluded from estimates. Merchant-category restrictions apply."
+    ]
+  },
+  {
+    "id": "savorone-student",
+    "name": "Capital One Savor Student",
+    "issuer": "Capital One",
+    "network": null,
+    "card_type": "student",
+    "annual_fee": 0.0,
+    "foreign_transaction_fee_percent": 0.0,
+    "reward_rules": [
+      {
+        "category": "all",
+        "rate": 1.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "groceries",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": "Walmart and Target are excluded."
+      },
+      {
+        "category": "dining",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      },
+      {
+        "category": "entertainment",
+        "rate": 3.0,
+        "unit": "percent",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      }
+    ],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": null,
+    "intro_balance_transfer_apr_months": null,
+    "perks": [],
+    "tags": [
+      "cash_back",
+      "student",
+      "build_credit"
+    ],
+    "credit_profile": "new",
+    "source_url": "https://67.credit/card/savorone-student",
+    "terms_url": "https://www.capitalone.com/credit-cards/savor-student/",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2026-07-28",
+    "active": true,
+    "data_notes": [
+      "Student eligibility requirements apply. Streaming and portal-only bonuses are excluded from estimates."
+    ]
+  },
+  {
+    "id": "venture",
+    "name": "Capital One Venture Rewards Credit Card",
+    "issuer": "Capital One",
+    "network": null,
+    "card_type": "general",
+    "annual_fee": 95.0,
+    "foreign_transaction_fee_percent": 0.0,
+    "reward_rules": [
+      {
+        "category": "all",
+        "rate": 2.0,
+        "unit": "miles",
+        "point_value": 0.01,
+        "annual_cap": null,
+        "notes": null
+      }
+    ],
+    "welcome_offer": null,
+    "intro_purchase_apr_months": null,
+    "intro_balance_transfer_apr_months": null,
+    "perks": [],
+    "tags": [
+      "travel"
+    ],
+    "credit_profile": "excellent",
+    "source_url": "https://67.credit/card/venture",
+    "terms_url": "https://www.capitalone.com/credit-cards/venture/",
+    "last_verified_at": "2026-10-28",
+    "source_verified_at": "2026-07-28",
+    "active": true,
+    "data_notes": [
+      "Miles are estimated at 1 cent each for travel. Other redemptions vary. Portal bonuses, credits, and welcome offers are excluded."
+    ]
+  }
+]

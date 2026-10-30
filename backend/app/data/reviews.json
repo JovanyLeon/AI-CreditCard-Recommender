@@ -1,0 +1,48 @@
+{
+  "savor": {
+    "name": "Capital One Savor Cash Rewards",
+    "card_type": "general", "annual_fee": 0, "foreign_transaction_fee_percent": 0,
+    "reward_rules": [{"category":"all","rate":1},{"category":"groceries","rate":3,"notes":"Superstores including Walmart and Target are excluded."},{"category":"dining","rate":3},{"category":"entertainment","rate":3}],
+    "intro_purchase_apr_months":12,"intro_balance_transfer_apr_months":12,
+    "credit_profile":"excellent","tags":["cash_back"],
+    "terms_url":"https://www.capitalone.com/credit-cards/savor/","last_verified_at":"2026-10-28",
+    "data_notes":["Portal-only travel bonuses and streaming rewards are excluded from estimates. Merchant-category restrictions apply."]
+  },
+  "quicksilver": {
+    "card_type":"general","annual_fee":0,"foreign_transaction_fee_percent":0,
+    "reward_rules":[{"category":"all","rate":1.5}],
+    "intro_purchase_apr_months":15,"intro_balance_transfer_apr_months":15,
+    "credit_profile":"excellent","tags":["cash_back"],
+    "terms_url":"https://www.capitalone.com/credit-cards/quicksilver/","last_verified_at":"2026-10-28",
+    "data_notes":["Portal-only travel and entertainment bonuses are excluded from estimates."]
+  },
+  "venture": {
+    "card_type":"general","annual_fee":95,"foreign_transaction_fee_percent":0,
+    "reward_rules":[{"category":"all","rate":2,"unit":"miles","point_value":0.01}],
+    "credit_profile":"excellent","tags":["travel"],
+    "terms_url":"https://www.capitalone.com/credit-cards/venture/","last_verified_at":"2026-10-28",
+    "data_notes":["Miles are estimated at 1 cent each for travel. Other redemptions vary. Portal bonuses, credits, and welcome offers are excluded."]
+  },
+  "savorone-student": {
+    "name":"Capital One Savor Student",
+    "card_type":"student","annual_fee":0,"foreign_transaction_fee_percent":0,
+    "reward_rules":[{"category":"all","rate":1},{"category":"groceries","rate":3,"notes":"Walmart and Target are excluded."},{"category":"dining","rate":3},{"category":"entertainment","rate":3}],
+    "credit_profile":"new","tags":["cash_back","student","build_credit"],
+    "terms_url":"https://www.capitalone.com/credit-cards/savor-student/","last_verified_at":"2026-10-28",
+    "data_notes":["Student eligibility requirements apply. Streaming and portal-only bonuses are excluded from estimates."]
+  },
+  "platinum-secured": {
+    "card_type":"secured","annual_fee":0,"foreign_transaction_fee_percent":0,
+    "reward_rules":[],"credit_profile":"new","tags":["build_credit"],
+    "terms_url":"https://www.capitalone.com/credit-cards/platinum-secured/","last_verified_at":"2026-10-28",
+    "data_notes":["A refundable security deposit is required. This card does not earn rewards."]
+  },
+  "chase-freedom-unlimited": {
+    "card_type":"general","annual_fee":0,
+    "reward_rules":[{"category":"all","rate":1.5},{"category":"dining","rate":3},{"category":"drugstores","rate":3}],
+    "intro_purchase_apr_months":15,"intro_balance_transfer_apr_months":15,
+    "credit_profile":"unknown","tags":["cash_back"],
+    "terms_url":"https://creditcards.chase.com/cash-back-credit-cards/freedom/unlimited","last_verified_at":"2026-10-28",
+    "data_notes":["Portal-only travel bonuses are excluded. Foreign transaction fee is not verified in this catalog."]
+  }
+}
