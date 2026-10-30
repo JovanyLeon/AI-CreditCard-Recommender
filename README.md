@@ -1,11 +1,11 @@
 # CardMatch — AI-Powered Credit Card Recommender
 
 A React/TypeScript and FastAPI application that compares credit cards against your
-goals, spending, and constraints. Guided search works entirely without OpenAI.
+goals, spending, and constraints. Guided search works entirely without OpenAI now since website is not up 24/7.
 Optional AI interprets natural language into the same typed request; it never
 independently ranks cards or invents card facts.
 
-Implemented from [the project brief](credit_card_recommender_codex_plan.md).
+
 
 ## Run locally
 
